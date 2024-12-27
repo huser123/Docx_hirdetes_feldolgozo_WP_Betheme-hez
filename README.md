@@ -57,6 +57,3 @@ A script a konzol képernyőjét törli, mielőtt kilistázná a `.docx` fájlok
 - Windows rendszeren a `cls` parancsot használja.
 - Linux/macOS rendszeren a `clear` parancsot alkalmazza.
 
-## Köszönetnyilvánítás
-Köszönet a `python-docx` könyvtárnak, amely megkönnyíti a `.docx` fájlok kezelését Pythonban.
-
